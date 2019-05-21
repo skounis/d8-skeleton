@@ -8,7 +8,7 @@ project:
 site:
   name: Drupal 8 Skeleton
   mail: email@example.com
-  profile: standard
+  profile: minimal
   update: false
   locale: en
 
