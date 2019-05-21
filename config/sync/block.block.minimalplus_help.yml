@@ -1,0 +1,22 @@
+uuid: 0a750ac4-e39d-4a91-b137-8d77b7825425
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - minimalplus
+_core:
+  default_config_hash: 2t9QhTe4WL0CcxPMGDN8JD6odhFULq4pKvabacWEIsk
+id: minimalplus_help
+theme: minimalplus
+region: content
+weight: -7
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

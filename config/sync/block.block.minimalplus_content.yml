@@ -1,0 +1,22 @@
+uuid: 38e72be3-6bf8-4e5d-aac9-1074b960d3ad
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - minimalplus
+_core:
+  default_config_hash: rSB0k7cwKX3Dnc-9uL2YAkHIOO8im_uOExAy7rzddDA
+id: minimalplus_content
+theme: minimalplus
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

@@ -1,0 +1,27 @@
+uuid: 316e0254-7b0e-4208-9f38-188ee9f9422d
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - minimalplus
+_core:
+  default_config_hash: AZwGOy5T5dvaRblA0PYSbjsKQs2YhbkEZduPCHU6faw
+id: minimalplus_main_menu
+theme: minimalplus
+region: header
+weight: -5
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

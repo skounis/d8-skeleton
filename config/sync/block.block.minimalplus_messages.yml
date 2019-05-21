@@ -1,0 +1,22 @@
+uuid: c67ffcc7-917f-4f37-948c-3c12f151c9f6
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - minimalplus
+_core:
+  default_config_hash: ISsDx3jgFSYl44FhtdL8k97i0MyqbeYcnHcvd67gKnA
+id: minimalplus_messages
+theme: minimalplus
+region: system_messages
+weight: -4
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

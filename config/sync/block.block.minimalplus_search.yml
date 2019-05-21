@@ -1,0 +1,22 @@
+uuid: caba65b8-b540-4645-a329-44b47cb06356
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - minimalplus
+_core:
+  default_config_hash: 8b2KukssROUZnZ8ngHI1z5x03_lnbnIRt4ZwOQEN6bc
+id: minimalplus_search
+theme: minimalplus
+region: sidebar_first
+weight: -1
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+visibility: {  }

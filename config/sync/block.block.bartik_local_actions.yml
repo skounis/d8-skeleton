@@ -1,15 +1,15 @@
-uuid: 2d005f97-5c7d-4aa8-ac12-72bf795fc79b
+uuid: d087855b-5291-406e-bf73-7237e1d12b5e
 langcode: en
 status: true
 dependencies:
   theme:
     - bartik
 _core:
-  default_config_hash: PffmQ-ABSz5tFjWmVsR7NesunDnEivvopnJnBjl8KNE
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
 id: bartik_local_actions
 theme: bartik
-region: sidebar_first
-weight: -3
+region: content
+weight: -20
 provider: null
 plugin: local_actions_block
 settings:
