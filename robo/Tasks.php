@@ -64,7 +64,7 @@ class Tasks extends RoboTasks {
 
     $this->getInstallTask()
       ->arg('--existing-config')
-      ->siteInstall('minimal')
+      ->siteInstall($this->config('site.profile'))
       ->run();
 /*
     // Run config import in order to apply config split settings.
