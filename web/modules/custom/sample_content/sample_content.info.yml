@@ -1,0 +1,12 @@
+name: Sample Content Module
+description: Define sample content for export.
+package: Custom
+type: module
+version: 1.0
+core: 8.x
+
+default_content:
+  node:
+    - a22445d2-1b03-4673-b8e5-560153af48d9
+#    - 3eda78b0-9d07-4d5c-b59d-bf8a58185a44
+#    - b3dedd9a-5510-4660-b936-339c4087cd95

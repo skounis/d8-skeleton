@@ -1,0 +1,101 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/amet-consequat-dolor-gilvus-iaceo-jus-lobortis-quidne-saluto.?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/tags"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "href": "http:\/\/default\/distineo-exputo-paratus-ratis-tego-valde.?_format=hal_json"
+            }
+        ]
+    },
+    "tid": [
+        {
+            "value": 2
+        }
+    ],
+    "uuid": [
+        {
+            "value": "325a2f36-958c-4644-92e0-daa37fd5700d"
+        }
+    ],
+    "revision_id": [
+        {
+            "value": 2
+        }
+    ],
+    "langcode": [
+        {
+            "value": "und",
+            "lang": "und"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "tags"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2018-12-30T20:18:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/tags\/revision_user": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "953f60b7-6446-476a-ad07-4cc7633e3558"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/taxonomy_term\/tags\/parent": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/distineo-exputo-paratus-ratis-tego-valde.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "604f499d-69a7-4dd3-85be-91c2dc44f446"
+                    }
+                ]
+            }
+        ]
+    },
+    "revision_log_message": [
+        {
+            "value": "Abdo camur dolore dolus metuo refero sit tum vereor vulpes. Iriure sagaciter sudo. Decet erat rusticus utrum. At consequat elit tego vel.\n\nFacilisis gilvus iriure neque premo ratis saluto sit ulciscor vereor. Defui duis eu fere iustum lobortis nimis uxor. Facilisis quia si sino vulpes. Abbas aliquam augue autem consequat jugis melior nulla rusticus.\n\nGravis interdico minim pala. Eros facilisi huic ille molior nostrud paratus quidne. Ad caecus huic immitto iustum luctus premo utrum. Ea in nunc occuro suscipit. Cui ideo letalis quis. Brevitas ex lucidus proprius.\n\nAmet diam genitus interdico natu oppeto pneum vero. Antehabeo causa conventio modo neque quia tego wisi. Iustum letalis scisco usitas zelus. Abigo amet at in natu saluto vindico volutpat. At cui decet dolus facilisi probo refoveo sed tamen. Accumsan cogo genitus odio pecus quis si. Abdo decet sed. Ad hos luptatum magna paratus pneum proprius secundum validus vero.\n\nAutem defui ratis ulciscor utrum valde vindico. Aliquip gilvus jus persto. Antehabeo aptent nimis obruo odio saepius saluto similis vulputate zelus. Erat quibus virtus. Ad interdico mos olim quia quis volutpat zelus. Abdo facilisi hendrerit inhibeo nutus pagus suscipere tation usitas. Comis haero hos incassum scisco. Elit imputo praemitto vel virtus.\n\nAbbas abico capto ea luctus paratus refoveo ulciscor vulputate. Oppeto os plaga saepius. Aptent dolus lobortis melior utrum. Augue bene immitto. Abbas aptent et iaceo neque singularis. Facilisis ille obruo pagus premo quadrum torqueo vel voco. Augue iaceo jugis suscipere. Adipiscing blandit dolor haero illum similis.\n\nHendrerit importunus olim pagus paulatim scisco secundum ullamcorper utinam. Consequat decet quibus valde venio. Distineo ideo jus paratus quidem refero suscipit. Abico adipiscing appellatio in iriure nobis tego. Abdo abluo antehabeo at illum pagus quadrum quae tamen utinam. Causa dolore duis exerci minim tego vindico. Acsi cui jugis quis similis sino utinam.\n\nIbidem ideo magna obruo persto proprius suscipit torqueo. Fere refero secundum. Neque sagaciter ut. Ad appellatio ideo letalis nutus pecus sagaciter sit tation valde. Abigo acsi defui dignissim hos metuo sino.\n\nComis commoveo modo neo rusticus saepius ullamcorper velit volutpat. Aliquip consequat damnum eligo gravis iriure iustum loquor tamen voco. Interdico jus os sit verto wisi ymo. Adipiscing commodo dignissim duis ille vereor ymo. At cogo eligo ideo iustum nisl venio.\n\nBlandit ex nibh nisl nostrud suscipit. Accumsan blandit dolor erat torqueo. Hos jus macto melior patria quis verto. Facilisi haero molior venio. Abigo camur consectetuer diam luctus ludus minim validus.\n\nCamur consectetuer ideo mos tum. Ad nunc si vulpes. Adipiscing brevitas dignissim eros feugiat. Aptent iaceo ibidem in interdico letalis meus neque patria quia. Et iriure pneum quia quidne ullamcorper. Abigo causa exerci obruo odio. Abdo defui eu quae te.\n\nEt iriure tego ymo. Ille interdico jus verto zelus. Abbas consequat erat facilisis iaceo importunus pertineo praesent premo ymo. Enim et gemino interdico luctus nimis odio proprius scisco volutpat. Amet caecus consequat fere odio premo torqueo. Lucidus utrum vulputate. Elit vero ymo. Acsi gilvus importunus loquor lucidus minim nutus quidne sudo vindico.\n\n"
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/amet-consequat-dolor-gilvus-iaceo-jus-lobortis-quidne-saluto.",
+            "pid": 2,
+            "langcode": "und",
+            "lang": "und"
+        }
+    ]
+}
