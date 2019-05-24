@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/dummyfile%27%27.png_6.png"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 62
+        }
+    ],
+    "uuid": [
+        {
+            "value": "ccc5420b-eb06-4cad-b346-f61db5b0987e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e6190487-2c15-4bd5-a219-7f0f88479afb"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "dummyfile''.png.png"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dummyfile''.png_6.png",
+            "url": "\/sites\/default\/files\/dummyfile%27%27.png_6.png"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/png"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 186838
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-24T14:28:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-24T14:28:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/sites\/default\/files\/dummyfile3008584298_b2302c12ea_o.jpg_8.jpg"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ]
+    },
+    "fid": [
+        {
+            "value": 78
+        }
+    ],
+    "uuid": [
+        {
+            "value": "0a9f564f-3daf-44a8-b15b-7d24a1d1f2cc"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/file\/file\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "e6190487-2c15-4bd5-a219-7f0f88479afb"
+                    }
+                ]
+            }
+        ]
+    },
+    "filename": [
+        {
+            "value": "dummyfile3008584298_b2302c12ea_o.jpg.jpg"
+        }
+    ],
+    "uri": [
+        {
+            "value": "public:\/\/dummyfile3008584298_b2302c12ea_o.jpg_8.jpg",
+            "url": "\/sites\/default\/files\/dummyfile3008584298_b2302c12ea_o.jpg_8.jpg"
+        }
+    ],
+    "filemime": [
+        {
+            "value": "image\/jpeg"
+        }
+    ],
+    "filesize": [
+        {
+            "value": 364850
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-05-24T14:28:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-05-24T14:28:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ]
+}
